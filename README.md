@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=dk040106)
+![solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=dk040106)
 
 <!--
 **dk040106/dk040106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
