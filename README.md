@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Jungwoong Kim, and I am ...
 
 - Majoring CSE in Korea University
-- Interested in AI, Game dev, Web dev, Algorithms... (almost every CS topics)
+- Interested in AI, Game dev, Web dev, Algorithms... (almost every CS topic)
 
 ## Recent Projects 💾
 
