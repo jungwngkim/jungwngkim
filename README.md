@@ -15,6 +15,6 @@
 
 ![solved.ac badge](https://mazassumnida.wtf/api/v2/generate_badge?boj=dk040106)
 
-## Good Bye 🙋‍♂️
+## Thank you for visiting 🙋‍♂️
 
 - [Blog](https://dk040106.github.io/): In case if you want to know more about my thoughts
