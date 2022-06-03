@@ -17,4 +17,4 @@
 
 ## Thank you for visiting 🙋‍♂️
 
-- [Blog](https://dk040106.github.io/): In case if you want to know more about my thoughts
+- [Blog](https://blog.jungwoong.kim/): In case if you want to know more about my thoughts
