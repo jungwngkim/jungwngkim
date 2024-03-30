@@ -17,5 +17,5 @@
 
 ## Thank you for visiting 🙋‍♂️
 
-- [Website](https://jungwoong.kim/): (Preparing) Resume, Project details etc.
-- [Blog](https://blog.jungwoong.kim/): In case if you want to know more about my thoughts
+- [Website](https://jungwng.kim/): (Preparing) Resume, Project details etc.
+- [Blog](https://blog.jungwng.kim/): In case if you want to know more about my thoughts
