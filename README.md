@@ -1,7 +1,7 @@
 ## Welcome to my github profile! I'm Jungwoong Kim, and I am ...
 
 - Majoring CSE in Korea University
-- Interested in AI, Game dev, Web dev, Algorithms... (almost every Computer related topic)
+- Interested in Computer Security, Mobile Dev, and Microarchitecture
 
 ## Recent Projects 💾
 
